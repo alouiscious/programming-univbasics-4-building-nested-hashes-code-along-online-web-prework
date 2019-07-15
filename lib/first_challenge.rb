@@ -3,7 +3,7 @@ def first_challenge
      :montague => {},
      :capulet => {}
    }
-     
+
 #      :montague => {
 #        :patriarch => {
 #          :name => "Lord Montague",
